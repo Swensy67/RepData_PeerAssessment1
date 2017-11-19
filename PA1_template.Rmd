@@ -2,8 +2,10 @@
 title: "Reproducible Research : course project"
 author: "Swensy Jangal"
 date: "15 novembre 2017"
+#output: md_document
 output: html_document
-keep_md: true
+#keep_md: true
+#output: md_document
 ---
 
 ```{r opts, echo = FALSE}
